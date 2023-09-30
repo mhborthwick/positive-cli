@@ -1,3 +1,3 @@
 # wholesome-cli
 
-A Python CLI that returns wholesome messages, images, and videos whenever you need a little positivity in your day.
+A Python CLI that returns wholesome messages whenever you need a little positivity in your day.

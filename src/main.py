@@ -3,7 +3,7 @@ from data import get_message
 
 
 def main():
-    message = get_message(1)
+    message = get_message(0)
     print(message)
 
 
