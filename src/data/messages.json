@@ -1,16 +1,84 @@
 {
   "results": [
     {
-      "message": "hello there",
-      "source": "me"
+      "message": "It is often the small steps, not the giant leaps, that bring about the most lasting change.",
+      "source": "Queen Elizabeth II"
     },
     {
-      "message": "whats up?",
-      "source": "joe"
+      "message": "Education is the most powerful weapon which you can use to change the world.",
+      "source": "Nelson Mandela"
     },
     {
-      "message": "hows it going",
-      "source": "jane"
+      "message": "There is always light. If only we're brave enough to see it. If only we're brave enough to be it.",
+      "source": "Amanda Gorman"
+    },
+    {
+      "message": "If you want to lift yourself up, lift up someone else.",
+      "source": "Booker T. Washington"
+    },
+    {
+      "message": "I have learned not to allow rejection to move me.",
+      "source": "Cicely Tyson"
+    },
+    {
+      "message": "I scorched the earth with my talent and I let my light shine.",
+      "source": "André Leon Talley"
+    },
+    {
+      "message": "You’re braver than you believe, stronger than you seem, and smarter than you think.",
+      "source": "A.A. Milne"
+    },
+    {
+      "message": "It took me quite a long time to develop a voice, and now that I have it, I am not going to be silent.",
+      "source": "Madeleine Albright"
+    },
+    {
+      "message": "You can't rely on how you look to sustain you, what sustains us, what is fundamentally beautiful is compassion; for yourself and your those around you.",
+      "source": "Lupita Nyong'o"
+    },
+    {
+      "message": "Attitude is the 'little' thing that makes a big difference.",
+      "source": "Winston Churchill"
+    },
+    {
+      "message": "We will fail when we fail to try.",
+      "source": "Rosa Parks"
+    },
+    {
+      "message": "All our dreams can come true — if we have the courage to pursue them.",
+      "source": "Walt Disney"
+    },
+    {
+      "message": "Once you face your fear, nothing is ever as hard as you think.",
+      "source": "Olivia Newton-John"
+    },
+    {
+      "message": "I don’t go to church regular. But I pray for answers to my problems.",
+      "source": "Loretta Lynn"
+    },
+    {
+      "message": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+      "source": "Thomas Edison"
+    },
+    {
+      "message": "Don't sit down and wait for the opportunities to come. Get up and make them.",
+      "source": "Madam C.J. Walker"
+    },
+    {
+      "message": "The people who are crazy enough to think they can change the world are the ones who do.",
+      "source": "Steve Jobs"
+    },
+    {
+      "message": "I never dreamed about success. I worked for it.",
+      "source": "Esteé Lauder"
+    },
+    {
+      "message": "Champions keep playing until they get it right.",
+      "source": "Billie Jean King"
+    },
+    {
+      "message": "A dead end street is a good place to turn around.",
+      "source": "Naomi Judd"
     }
   ]
 }
